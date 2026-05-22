@@ -1,0 +1,22 @@
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+.venv/
+.venv312/
+.env
+.env.*
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Source data with personal or raw operational content
+*.xlsx
+*.xls
+*.xlsm
+*.mov
+*.mp4
+
+# Local scratch/download artifacts
+puestos_registraduria_dataPuestos.json
+.DS_Store
+

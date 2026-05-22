@@ -1,0 +1,12 @@
+{
+  "puestos_unicos_base_por_codigo": 986,
+  "combinaciones_puesto_nombre_base": 1108,
+  "puestos_geocodificados": 965,
+  "puestos_pendientes_validacion": 21,
+  "pct_puestos_geocodificados": 97.9,
+  "testigos_en_puestos_geocodificados": 10673,
+  "testigos_en_puestos_pendientes": 77,
+  "testigos_sin_codigo_puesto_votacion": 39,
+  "total_testigos_base": 10789,
+  "pct_testigos_geocodificados": 99.3
+}
